@@ -1,0 +1,6 @@
+*.json
+assets/
+objects/
+
+# Node
+node_modules/
